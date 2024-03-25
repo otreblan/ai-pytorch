@@ -1,1 +1,3 @@
 data/
+ai-venv/
+model.pth
